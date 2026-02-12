@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Loren\\OneDrive\\Documenti\\Informatica\\esVisualStudio\\esVettori1\\",
+  "WorkspaceRootPath": "C:\\Users\\Loren\\OneDrive\\Documenti\\Informatica\\VisualStudio\\esVettori1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A318895E-2BD1-4924-A4CB-25B608B49971}|esVettori1\\esVettori1.csproj|c:\\users\\loren\\onedrive\\documenti\\informatica\\esvisualstudio\\esvettori1\\esvettori1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A318895E-2BD1-4924-A4CB-25B608B49971}|esVettori1\\esVettori1.csproj|solutionrelative:esvettori1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE410521-6E8A-26A0-A104-341C97C77ACE}|esVettori1\\esVettori1.csproj|c:\\users\\loren\\onedrive\\documenti\\informatica\\visualstudio\\esvettori1\\esvettori1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE410521-6E8A-26A0-A104-341C97C77ACE}|esVettori1\\esVettori1.csproj|solutionrelative:esvettori1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Loren\\OneDrive\\Documenti\\Informatica\\esVisualStudio\\esVettori1\\esVettori1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Loren\\OneDrive\\Documenti\\Informatica\\VisualStudio\\esVettori1\\esVettori1\\Program.cs",
               "RelativeDocumentMoniker": "esVettori1\\Program.cs",
-              "ToolTip": "C:\\Users\\Loren\\OneDrive\\Documenti\\Informatica\\esVisualStudio\\esVettori1\\esVettori1\\Program.cs",
+              "ToolTip": "C:\\Users\\Loren\\OneDrive\\Documenti\\Informatica\\VisualStudio\\esVettori1\\esVettori1\\Program.cs",
               "RelativeToolTip": "esVettori1\\Program.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAAD4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

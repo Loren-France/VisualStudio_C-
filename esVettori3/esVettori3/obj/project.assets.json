@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Loren\\OneDrive\\Documenti\\Informatica\\VisualStudio\\esVettori1\\esVettori1\\esVettori1.csproj",
-      "projectName": "esVettori1",
-      "projectPath": "C:\\Users\\Loren\\OneDrive\\Documenti\\Informatica\\VisualStudio\\esVettori1\\esVettori1\\esVettori1.csproj",
+      "projectUniqueName": "C:\\Users\\Loren\\OneDrive\\Documenti\\Informatica\\VisualStudio\\esVettori3\\esVettori3\\esVettori3.csproj",
+      "projectName": "esVettori3",
+      "projectPath": "C:\\Users\\Loren\\OneDrive\\Documenti\\Informatica\\VisualStudio\\esVettori3\\esVettori3\\esVettori3.csproj",
       "packagesPath": "C:\\Users\\Loren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Loren\\OneDrive\\Documenti\\Informatica\\VisualStudio\\esVettori1\\esVettori1\\obj\\",
+      "outputPath": "C:\\Users\\Loren\\OneDrive\\Documenti\\Informatica\\VisualStudio\\esVettori3\\esVettori3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esVettori3\esVettori3\bin\Debug\net10.0\esVettori3.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esVettori3\esVettori3\bin\Debug\net10.0\esVettori3.deps.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esVettori3\esVettori3\bin\Debug\net10.0\esVettori3.runtimeconfig.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esVettori3\esVettori3\bin\Debug\net10.0\esVettori3.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esVettori3\esVettori3\bin\Debug\net10.0\esVettori3.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esVettori3\esVettori3\obj\Debug\net10.0\esVettori3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esVettori3\esVettori3\obj\Debug\net10.0\esVettori3.AssemblyInfoInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esVettori3\esVettori3\obj\Debug\net10.0\esVettori3.AssemblyInfo.cs
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esVettori3\esVettori3\obj\Debug\net10.0\esVettori3.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esVettori3\esVettori3\obj\Debug\net10.0\esVettori3.sourcelink.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esVettori3\esVettori3\obj\Debug\net10.0\esVettori3.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esVettori3\esVettori3\obj\Debug\net10.0\refint\esVettori3.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esVettori3\esVettori3\obj\Debug\net10.0\esVettori3.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esVettori3\esVettori3\obj\Debug\net10.0\esVettori3.genruntimeconfig.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esVettori3\esVettori3\obj\Debug\net10.0\ref\esVettori3.dll
