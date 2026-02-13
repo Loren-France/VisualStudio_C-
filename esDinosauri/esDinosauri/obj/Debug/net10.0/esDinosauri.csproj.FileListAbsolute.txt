@@ -1,0 +1,15 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDinosauri\esDinosauri\bin\Debug\net10.0\esDinosauri.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDinosauri\esDinosauri\bin\Debug\net10.0\esDinosauri.deps.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDinosauri\esDinosauri\bin\Debug\net10.0\esDinosauri.runtimeconfig.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDinosauri\esDinosauri\bin\Debug\net10.0\esDinosauri.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDinosauri\esDinosauri\bin\Debug\net10.0\esDinosauri.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDinosauri\esDinosauri\obj\Debug\net10.0\esDinosauri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDinosauri\esDinosauri\obj\Debug\net10.0\esDinosauri.AssemblyInfoInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDinosauri\esDinosauri\obj\Debug\net10.0\esDinosauri.AssemblyInfo.cs
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDinosauri\esDinosauri\obj\Debug\net10.0\esDinosauri.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDinosauri\esDinosauri\obj\Debug\net10.0\esDinosauri.sourcelink.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDinosauri\esDinosauri\obj\Debug\net10.0\esDinosauri.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDinosauri\esDinosauri\obj\Debug\net10.0\refint\esDinosauri.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDinosauri\esDinosauri\obj\Debug\net10.0\esDinosauri.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDinosauri\esDinosauri\obj\Debug\net10.0\esDinosauri.genruntimeconfig.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDinosauri\esDinosauri\obj\Debug\net10.0\ref\esDinosauri.dll
