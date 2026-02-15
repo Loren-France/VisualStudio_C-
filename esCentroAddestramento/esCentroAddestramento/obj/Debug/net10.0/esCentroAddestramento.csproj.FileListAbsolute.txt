@@ -1,0 +1,15 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCentroAddestramento\esCentroAddestramento\bin\Debug\net10.0\esCentroAddestramento.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCentroAddestramento\esCentroAddestramento\bin\Debug\net10.0\esCentroAddestramento.deps.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCentroAddestramento\esCentroAddestramento\bin\Debug\net10.0\esCentroAddestramento.runtimeconfig.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCentroAddestramento\esCentroAddestramento\bin\Debug\net10.0\esCentroAddestramento.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCentroAddestramento\esCentroAddestramento\bin\Debug\net10.0\esCentroAddestramento.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCentroAddestramento\esCentroAddestramento\obj\Debug\net10.0\esCentroAddestramento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCentroAddestramento\esCentroAddestramento\obj\Debug\net10.0\esCentroAddestramento.AssemblyInfoInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCentroAddestramento\esCentroAddestramento\obj\Debug\net10.0\esCentroAddestramento.AssemblyInfo.cs
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCentroAddestramento\esCentroAddestramento\obj\Debug\net10.0\esCentroAddestramento.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCentroAddestramento\esCentroAddestramento\obj\Debug\net10.0\esCentroAddestramento.sourcelink.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCentroAddestramento\esCentroAddestramento\obj\Debug\net10.0\esCentroAddestramento.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCentroAddestramento\esCentroAddestramento\obj\Debug\net10.0\refint\esCentroAddestramento.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCentroAddestramento\esCentroAddestramento\obj\Debug\net10.0\esCentroAddestramento.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCentroAddestramento\esCentroAddestramento\obj\Debug\net10.0\esCentroAddestramento.genruntimeconfig.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCentroAddestramento\esCentroAddestramento\obj\Debug\net10.0\ref\esCentroAddestramento.dll
