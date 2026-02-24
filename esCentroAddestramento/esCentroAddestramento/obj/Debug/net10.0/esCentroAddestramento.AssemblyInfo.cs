@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("esCentroAddestramento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f9d58275a8528dd358fe5abc388fb707216f572")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98af4918e4aa714bec7fac20f0b353356c1b50f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("esCentroAddestramento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("esCentroAddestramento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,10 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsConversioni\EsConversioni\bin\Debug\EsConversioni.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsConversioni\EsConversioni\bin\Debug\EsConversioni.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsConversioni\EsConversioni\bin\Debug\EsConversioni.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsConversioni\EsConversioni\obj\Debug\EsConversioni.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsConversioni\EsConversioni\obj\Debug\EsConversioni.Form1.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsConversioni\EsConversioni\obj\Debug\EsConversioni.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsConversioni\EsConversioni\obj\Debug\EsConversioni.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsConversioni\EsConversioni\obj\Debug\EsConversioni.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsConversioni\EsConversioni\obj\Debug\EsConversioni.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsConversioni\EsConversioni\obj\Debug\EsConversioni.pdb

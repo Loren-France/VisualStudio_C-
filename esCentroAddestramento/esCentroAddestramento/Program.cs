@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.Unicode;
 using static System.Console;
 
 namespace esCentroAddestramento
@@ -342,7 +343,7 @@ namespace esCentroAddestramento
 
 			WriteLine("Scambio allenatori avvenuto con successo!");
 		}
-		static void Visualizza(MostroDigitale[] mostri)
+		static void Visualizza(MostroDigitale[] mostri)  
 		{
 			WriteLine("Visualizzazione dei mostri digitali: ");
 			WriteLine();
