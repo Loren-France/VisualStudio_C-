@@ -1,0 +1,10 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsElencoAttività\EsElencoAttività\bin\Debug\EsElencoAttività.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsElencoAttività\EsElencoAttività\bin\Debug\EsElencoAttività.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsElencoAttività\EsElencoAttività\bin\Debug\EsElencoAttività.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsElencoAttività\EsElencoAttività\obj\Debug\EsElencoAttività.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsElencoAttività\EsElencoAttività\obj\Debug\EsElencoAttività.Form1.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsElencoAttività\EsElencoAttività\obj\Debug\EsElencoAttività.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsElencoAttività\EsElencoAttività\obj\Debug\EsElencoAttività.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsElencoAttività\EsElencoAttività\obj\Debug\EsElencoAttività.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsElencoAttività\EsElencoAttività\obj\Debug\EsElencoAttività.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsElencoAttività\EsElencoAttività\obj\Debug\EsElencoAttività.pdb
