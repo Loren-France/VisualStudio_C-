@@ -1,0 +1,10 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCreatureMagiche\EsCreatureMagiche\bin\Debug\EsCreatureMagiche.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCreatureMagiche\EsCreatureMagiche\bin\Debug\EsCreatureMagiche.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCreatureMagiche\EsCreatureMagiche\bin\Debug\EsCreatureMagiche.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCreatureMagiche\EsCreatureMagiche\obj\Debug\EsCreatureMagiche.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCreatureMagiche\EsCreatureMagiche\obj\Debug\EsCreatureMagiche.Form1.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCreatureMagiche\EsCreatureMagiche\obj\Debug\EsCreatureMagiche.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCreatureMagiche\EsCreatureMagiche\obj\Debug\EsCreatureMagiche.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCreatureMagiche\EsCreatureMagiche\obj\Debug\EsCreatureMagiche.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCreatureMagiche\EsCreatureMagiche\obj\Debug\EsCreatureMagiche.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCreatureMagiche\EsCreatureMagiche\obj\Debug\EsCreatureMagiche.pdb
