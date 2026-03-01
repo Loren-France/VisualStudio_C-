@@ -1,0 +1,10 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsPuffiFanCosì\EsPuffiFanCosì\bin\Debug\EsPuffiFanCosì.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsPuffiFanCosì\EsPuffiFanCosì\bin\Debug\EsPuffiFanCosì.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsPuffiFanCosì\EsPuffiFanCosì\bin\Debug\EsPuffiFanCosì.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsPuffiFanCosì\EsPuffiFanCosì\obj\Debug\EsPuffiFanCosì.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsPuffiFanCosì\EsPuffiFanCosì\obj\Debug\EsPuffiFanCosì.Form1.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsPuffiFanCosì\EsPuffiFanCosì\obj\Debug\EsPuffiFanCosì.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsPuffiFanCosì\EsPuffiFanCosì\obj\Debug\EsPuffiFanCosì.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsPuffiFanCosì\EsPuffiFanCosì\obj\Debug\EsPuffiFanCosì.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsPuffiFanCosì\EsPuffiFanCosì\obj\Debug\EsPuffiFanCosì.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsPuffiFanCosì\EsPuffiFanCosì\obj\Debug\EsPuffiFanCosì.pdb
