@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brainy-smurf-11530967289fgqvkfukzv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fecc1bda2a3cf7c6e5c858d602bb32b7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gargamel-smurfs-the-lost-village-11546805852mrtajxrxqp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Happy-Smurf-Cat-Smiling-Brightly-PNG-thumb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a-tree-with-green-leaves-free-vector.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copilot_20260303_182211.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
