@@ -160,6 +160,12 @@ namespace EsPuffiFanCosì
 				casetta.x = rand.Next(0, pnlCittà.Width - pnlCasetta.Width);
 				casetta.y = rand.Next(0, pnlCittà.Height - pnlCasetta.Height);
 				pnlCasetta.Location = new Point(casetta.x, casetta.y);
+				for (int k = 0; k < 10; k++)
+				{
+					alberi[k].x = rand.Next(0, pnlCittà.Width - panels[k].Width);
+					alberi[k].y = rand.Next(0, pnlCittà.Height - panels[k].Height);
+					panels[k].Location = new Point(alberi[k].x, alberi[k].y);
+				}
 			}
 
 			if (CollisionePuffo())
@@ -173,12 +179,6 @@ namespace EsPuffiFanCosì
 
 			if (CollisioneAlbero())
 			{
-				for (int k = 0; k < 10; k++)
-				{
-					alberi[k].x = rand.Next(0, pnlCittà.Width - panels[k].Width);
-					alberi[k].y = rand.Next(0, pnlCittà.Height - panels[k].Height);
-					panels[k].Location = new Point(alberi[k].x, alberi[k].y);
-				}
 				TurnoPuffo = !TurnoPuffo;
 				movement = 0;
 			}

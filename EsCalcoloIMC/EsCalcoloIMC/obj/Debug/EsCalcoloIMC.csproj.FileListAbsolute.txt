@@ -1,0 +1,10 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCalcoloIMC\EsCalcoloIMC\obj\Debug\EsCalcoloIMC.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCalcoloIMC\EsCalcoloIMC\obj\Debug\EsCalcoloIMC.Form1.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCalcoloIMC\EsCalcoloIMC\obj\Debug\EsCalcoloIMC.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCalcoloIMC\EsCalcoloIMC\obj\Debug\EsCalcoloIMC.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCalcoloIMC\EsCalcoloIMC\obj\Debug\EsCalcoloIMC.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCalcoloIMC\EsCalcoloIMC\bin\Debug\EsCalcoloIMC.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCalcoloIMC\EsCalcoloIMC\bin\Debug\EsCalcoloIMC.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCalcoloIMC\EsCalcoloIMC\bin\Debug\EsCalcoloIMC.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCalcoloIMC\EsCalcoloIMC\obj\Debug\EsCalcoloIMC.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\EsCalcoloIMC\EsCalcoloIMC\obj\Debug\EsCalcoloIMC.pdb
