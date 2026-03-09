@@ -46,6 +46,7 @@ namespace EsCalcoloIMC
 			this.rdbMediaIMC = new System.Windows.Forms.RadioButton();
 			this.rdbCalcoloIMC = new System.Windows.Forms.RadioButton();
 			this.lblCognomeNome = new System.Windows.Forms.Label();
+			this.btnFile = new System.Windows.Forms.Button();
 			this.panel1.SuspendLayout();
 			this.SuspendLayout();
 			// 
@@ -114,6 +115,7 @@ namespace EsCalcoloIMC
 			// 
 			// panel1
 			// 
+			this.panel1.Controls.Add(this.btnFile);
 			this.panel1.Controls.Add(this.btnSalva);
 			this.panel1.Controls.Add(this.btnEsegui);
 			this.panel1.Controls.Add(this.rdbVarianzaIMC);
@@ -128,7 +130,7 @@ namespace EsCalcoloIMC
 			// 
 			// btnSalva
 			// 
-			this.btnSalva.Location = new System.Drawing.Point(652, 14);
+			this.btnSalva.Location = new System.Drawing.Point(612, 14);
 			this.btnSalva.Name = "btnSalva";
 			this.btnSalva.Size = new System.Drawing.Size(75, 23);
 			this.btnSalva.TabIndex = 6;
@@ -138,7 +140,7 @@ namespace EsCalcoloIMC
 			// 
 			// btnEsegui
 			// 
-			this.btnEsegui.Location = new System.Drawing.Point(542, 14);
+			this.btnEsegui.Location = new System.Drawing.Point(531, 14);
 			this.btnEsegui.Name = "btnEsegui";
 			this.btnEsegui.Size = new System.Drawing.Size(75, 23);
 			this.btnEsegui.TabIndex = 5;
@@ -210,6 +212,16 @@ namespace EsCalcoloIMC
 			this.lblCognomeNome.Text = "Cognome Nome";
 			this.lblCognomeNome.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
 			// 
+			// btnFile
+			// 
+			this.btnFile.Location = new System.Drawing.Point(688, 3);
+			this.btnFile.Name = "btnFile";
+			this.btnFile.Size = new System.Drawing.Size(75, 45);
+			this.btnFile.TabIndex = 7;
+			this.btnFile.Text = "CREA\r\nFILE";
+			this.btnFile.UseVisualStyleBackColor = true;
+			this.btnFile.Click += new System.EventHandler(this.btnFile_Click);
+			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -251,6 +263,7 @@ namespace EsCalcoloIMC
 		private System.Windows.Forms.RadioButton rdbModaIMC;
 		private System.Windows.Forms.Button btnSalva;
 		private System.Windows.Forms.Button btnEsegui;
+		private Button btnFile;
 	}
 }
 

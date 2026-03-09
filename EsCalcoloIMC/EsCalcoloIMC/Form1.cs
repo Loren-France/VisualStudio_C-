@@ -4,10 +4,12 @@ using System.ComponentModel;
 using System.ComponentModel.Design;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Xml.Linq;
 
 namespace EsCalcoloIMC
 {
@@ -145,17 +147,29 @@ namespace EsCalcoloIMC
 
 				lblOutput.Text = $"Nella lista di persone inserita la moda di IMC tende allo status di: {moda}";
 			}
-			else if (rdbMedianaIMC.Checked) // mediana da sistemare
+			else if (rdbMedianaIMC.Checked)
 			{
+				double[] numeri = new double[pazienti.Count];
+				int lunghezza = numeri.Length;
+				double Mediana = 0;
+
+				for (int i = 0; i < lunghezza; i++)
+				{
+					numeri[i] = pazienti[i].IMC;
+				}
+
+				Array.Sort(numeri);
 
 				if (pazienti.Count % 2 == 0)
 				{
-
+					Mediana = (numeri[lunghezza / 2 - 1] + numeri[lunghezza / 2]) / 2;
 				}
 				else
 				{
-
+					Mediana = numeri[lunghezza / 2];
 				}
+
+				lblOutput.Text = $"La mediana degli IMC è: {Mediana}";
 			}
 			else if (rdbVarianzaIMC.Checked)
 			{
@@ -220,6 +234,37 @@ namespace EsCalcoloIMC
 			{
 				return (Interpretazione)3;
 			}
+		}
+
+		private void btnFile_Click(object sender, EventArgs e)
+		{
+			string folder = @"C:\Users\Loren\Downloads";
+			string fileName = "file.csv";
+			string fullPath = Path.Combine(folder, fileName);
+
+			Directory.CreateDirectory(folder);
+
+			if (pazienti.Count == 0)
+			{
+				MessageBox.Show("Nessun paziente da salvare");
+				return;
+			}
+
+			using (var sw = new StreamWriter(fullPath, true))
+			{
+				sw.WriteLine("CognomeNome,Peso,Altezza,IMC,Feedback");
+
+				for (int i = 0; i < pazienti.Count; i++)
+				{
+					string nome = pazienti[i].CognomeNome.ToString();
+					string peso = pazienti[i].Peso.ToString();
+					string altezza = pazienti[i].Altezza.ToString();
+					string imc = pazienti[i].IMC.ToString();
+					sw.WriteLine($"\"{nome}\",{peso},{altezza},{imc},{pazienti[i].Feedback}");
+				}
+			}
+
+			MessageBox.Show($"Salvati {pazienti.Count} pazienti in {fullPath}");
 		}
 	}
 }
