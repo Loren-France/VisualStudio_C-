@@ -1,0 +1,10 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCavalli\esCavalli\obj\Debug\esCavalli.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCavalli\esCavalli\obj\Debug\esCavalli.Form1.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCavalli\esCavalli\obj\Debug\esCavalli.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCavalli\esCavalli\obj\Debug\esCavalli.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCavalli\esCavalli\obj\Debug\esCavalli.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCavalli\esCavalli\bin\Debug\esCavalli.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCavalli\esCavalli\bin\Debug\esCavalli.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCavalli\esCavalli\bin\Debug\esCavalli.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCavalli\esCavalli\obj\Debug\esCavalli.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCavalli\esCavalli\obj\Debug\esCavalli.pdb
