@@ -8,6 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Microsoft.Win32;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.TaskbarClock;
 
 namespace esCavalli
 {
@@ -57,30 +59,32 @@ namespace esCavalli
 			OpenFileDialog ofd = new OpenFileDialog();
 			ofd.Title = "Selezionare file .txt per importare i dati";
 
-			string percorso;
+			string fullPath;
 
 			if (ofd.ShowDialog() == DialogResult.OK)
 			{
-				percorso = ofd.FileName;
+				fullPath = ofd.FileName;
 
-				using (StreamReader sr = new StreamReader(percorso))
+				char pv = ';';
+				char capo = '\n';
+				char maschio = 'M';
+
+				using (var sw = new StreamReader(fullPath, true))
 				{
-					char separatore1 = ';';
-					char[] separatore2 = new char[] { '\n', '\r', ' ' };
+					string[] righe = sw.ReadToEnd().Split(capo);
 
-					for (int i = 0; i < cavalli.Count; i++)
+					for (int i = 0; i < righe.Length; i++)
 					{
 						Cavallo puledro = new Cavallo();
-						string testo = sr.ReadLine();
-						string[] array;
-						array = testo.Split(separatore1);
+						string[] dati = righe[i].Split(pv);
 
-						if (array[3] != "M" || array[3] != "F")
+						for (int j = 0; j < dati.Length; j++)
 						{
-							puledro.nome = array[0].Trim();
-							puledro.razza = array[1].Trim();
-							puledro.anno = int.Parse(array[2].Trim());
-							if (array[3] == "M")
+							puledro.nome = dati[0].ToString();
+							puledro.razza = dati[1].ToString();
+							puledro.anno = int.Parse(dati[2].ToString());
+							char lettera = char.Parse(dati[3].Trim());
+							if (maschio == lettera)
 							{
 								puledro.sesso = true;
 							}
@@ -88,12 +92,8 @@ namespace esCavalli
 							{
 								puledro.sesso = false;
 							}
-							cavalli.Add(puledro);
 						}
-						else
-						{
-							MessageBox.Show("Errore, valore del sesso del cavallo errato");
-						}
+						cavalli.Add(puledro);
 					}
 
 					lstCavalli.Items.Clear();
@@ -102,6 +102,10 @@ namespace esCavalli
 					{
 						lstCavalli.Items.Add(cavalli[i].Stampa());
 					}
+
+					MessageBox.Show($"Importato da {fullPath}");
+
+					sw.Close();
 				}
 			}
 		}
@@ -249,9 +253,32 @@ namespace esCavalli
 		}
 		private void btnFile_Click(object sender, EventArgs e)
 		{
-			string dirname = @"C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCavalli\esCavalli";
-			string filename = "Resoconto.txt";
-			string fullpath = Path.Combine(dirname, filename);
+			string fullPath = @"C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esCavalli\Resoconto.txt";
+
+			using (var sw = new StreamWriter(fullPath, true))
+			{
+				for (int i = 0; i < cavalli.Count; i++)
+				{
+					if (!string.IsNullOrEmpty(cavalli[i].nome))
+					{
+						string durata = cavalli[i].nome.ToString();
+						string tipo = cavalli[i].razza.ToString();
+						string luogo = cavalli[i].anno.ToString();
+						char lettera;
+						if (cavalli[i].sesso)
+						{
+							lettera = 'M';
+						}
+						else
+						{
+							lettera = 'F';
+						}
+						sw.WriteLine($"{durata};{tipo};{luogo};{lettera}");
+					}
+				}
+			}
+
+			MessageBox.Show($"Salvato in {fullPath}");
 		}
 	}
 }
