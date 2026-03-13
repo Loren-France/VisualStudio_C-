@@ -1,0 +1,10 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esSport\esSport\bin\Debug\esSport.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esSport\esSport\bin\Debug\esSport.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esSport\esSport\bin\Debug\esSport.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esSport\esSport\obj\Debug\esSport.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esSport\esSport\obj\Debug\esSport.Form1.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esSport\esSport\obj\Debug\esSport.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esSport\esSport\obj\Debug\esSport.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esSport\esSport\obj\Debug\esSport.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esSport\esSport\obj\Debug\esSport.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esSport\esSport\obj\Debug\esSport.pdb

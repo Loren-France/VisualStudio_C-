@@ -45,7 +45,7 @@ namespace esCavalli
 
 	public partial class Form1 : Form
 	{
-		List <Cavallo> cavalli = new List <Cavallo>(10);
+		List <Cavallo> cavalli = new List <Cavallo>(5);
 		int c = 0;
 		public Form1()
 		{

@@ -1,0 +1,4 @@
+durata;tipo;luogo
+45;Corsa;fuori
+67;Nuoto;piscina
+

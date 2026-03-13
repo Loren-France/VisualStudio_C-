@@ -141,9 +141,9 @@
 			// 
 			this.lstCavalli.FormattingEnabled = true;
 			this.lstCavalli.ItemHeight = 16;
-			this.lstCavalli.Location = new System.Drawing.Point(21, 159);
+			this.lstCavalli.Location = new System.Drawing.Point(21, 146);
 			this.lstCavalli.Name = "lstCavalli";
-			this.lstCavalli.Size = new System.Drawing.Size(487, 276);
+			this.lstCavalli.Size = new System.Drawing.Size(487, 292);
 			this.lstCavalli.TabIndex = 10;
 			// 
 			// btnFile

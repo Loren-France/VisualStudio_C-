@@ -1,0 +1,2 @@
+60;Corsa;Palestra
+39;Nuoto;Piscina
