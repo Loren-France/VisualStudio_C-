@@ -70,7 +70,7 @@ namespace esUEFA
 		{
 			char c = e.KeyChar;
 
-			if (!char.IsNumber(c) && !char.IsControl(c) && c != '-')
+			if (!char.IsNumber(c) && !char.IsControl(c))
 			{
 				e.Handled = true;
 			}
@@ -80,7 +80,7 @@ namespace esUEFA
 		{
 			char c = e.KeyChar;
 
-			if (!char.IsNumber(c) && !char.IsControl(c) && c != '-')
+			if (!char.IsNumber(c) && !char.IsControl(c))
 			{
 				e.Handled = true;
 			}
