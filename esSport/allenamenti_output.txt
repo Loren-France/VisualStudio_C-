@@ -2,3 +2,11 @@ durata;tipo;luogo
 45;Corsa;fuori
 67;Nuoto;piscina
 
+durata;tipo;luogo
+Napoli-Juventus-3-5
+Milan-Inter-2-2
+rgeqrg-vqrvqer-3-4
+durata;tipo;luogo
+Napoli-Juventus-3-5
+Milan-Inter-2-2
+rgeqrg-vqrvqer-3-4

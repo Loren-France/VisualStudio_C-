@@ -1,0 +1,10 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esUEFA\esUEFA\bin\Debug\esUEFA.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esUEFA\esUEFA\bin\Debug\esUEFA.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esUEFA\esUEFA\bin\Debug\esUEFA.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esUEFA\esUEFA\obj\Debug\esUEFA.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esUEFA\esUEFA\obj\Debug\esUEFA.Form1.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esUEFA\esUEFA\obj\Debug\esUEFA.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esUEFA\esUEFA\obj\Debug\esUEFA.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esUEFA\esUEFA\obj\Debug\esUEFA.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esUEFA\esUEFA\obj\Debug\esUEFA.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esUEFA\esUEFA\obj\Debug\esUEFA.pdb
