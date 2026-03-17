@@ -92,7 +92,7 @@ namespace esUEFA
 		{
 			InitializeComponent();
 
-			string fullPath = @"C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esUEFA\Registro.txt";
+			string fullPath = @"Registro.txt";
 
 			char pv = '-';
 			char capo = '\n';
@@ -153,7 +153,7 @@ namespace esUEFA
 
 		private void btnFile_Click(object sender, EventArgs e)
 		{
-			string fullPath = @"C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esUEFA\Registro.txt";
+			string fullPath = @"Registro.txt";
 
 			using (var sw = new StreamWriter(fullPath, true))
 			{
