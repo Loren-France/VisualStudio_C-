@@ -114,9 +114,6 @@ namespace esUEFA
 
 				MessageBox.Show($"Importato da {fullPath}");
 
-				sw.Close();
-
-
 				lstPartite.Items.Clear();
 
 				for (int i = 0; i < partite.Count; i++)
@@ -177,7 +174,7 @@ namespace esUEFA
 		private void btnStatistiche_Click(object sender, EventArgs e)
 		{
 			List<string> squadre = new List<string>();
-			List<int> score = new List<int>();
+			List<int> score = new List<int>(); 
 			string migliore = "";
 			int somma = 0, temp = 0;
 			Partita maggiore = new Partita();
@@ -217,7 +214,7 @@ namespace esUEFA
 			}
 
 			int maxGol = score.Max();
-			int pos = score.IndexOf(maxGol);
+			int pos = score.IndexOf(maxGol); 
 			migliore = squadre[pos];
 
 			MessageBox.Show($"La squadra che ha segnato il maggior numero di gol è: {migliore} {Environment.NewLine}Il numero di gol totale segnati nel campionato è: {somma} {Environment.NewLine}La partita in cui sono stati segnati più gol è:{Environment.NewLine}{maggiore.Stampa()}");
