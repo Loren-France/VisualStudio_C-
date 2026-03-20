@@ -179,7 +179,7 @@ namespace esPasticceria
 
 			MessageBox.Show($"Importato da {fullPath}");
 
-			OrdinaPerNome();
+			SelectionSort(crostate);
 
 			lstCrostate.Items.Clear();
 
@@ -232,7 +232,7 @@ namespace esPasticceria
 
 			crostate.Add(nuova);
 
-			OrdinaPerNome();
+			SelectionSort(crostate);
 
 			lstCrostate.Items.Clear();
 
@@ -241,21 +241,28 @@ namespace esPasticceria
 				lstCrostate.Items.Add(crostate[i].Stampa());
 			}
 
-			string nome = nuova.nome;
-			string frolla = nuova.tipoFrolla.ToString();
-			string confettura = nuova.tipoMarmellata.ToString();
-			double gradi = nuova.cottura;
-			double diametro = nuova.diametro;
-			string sigla;
-			if (nuova.decorazione)
+
+			using (var sw = new StreamWriter(fullPath, false))
 			{
-				sigla = "Sì";
+				for (int i = 0; i < crostate.Count; i++)
+				{
+					string nome = crostate[i].nome;
+					string frolla = crostate[i].tipoFrolla.ToString();
+					string confettura = crostate[i].tipoMarmellata.ToString();
+					double gradi = crostate[i].cottura;
+					double diametro = crostate[i].diametro;
+					string sigla;
+					if (crostate[i].decorazione)
+					{
+						sigla = "Sì";
+					}
+					else
+					{
+						sigla = "No";
+					}
+					sw.WriteLine($"{nome};{frolla};{confettura};{gradi};{diametro};{sigla}");
+				}
 			}
-			else
-			{
-				sigla = "No";
-			}
-			File.AppendAllLines(fullPath, new[] { ($"{nome};{frolla};{confettura};{gradi};{diametro};{sigla}") });
 
 			MessageBox.Show($"Modifiche apportate in {fullPath}");
 		}
@@ -287,15 +294,31 @@ namespace esPasticceria
 			}
 		}
 
-		private void OrdinaPerNome()
+		static void SelectionSort(List<Crostata> lista)
 		{
-			crostate = crostate.OrderBy(c => c.nome).ToList();
-			// OrderBy per ordinare in modo crescente sulla base di elemento (c) e chiave (c.nome)
-			// c è l'elemento alla quale fa riferimento OrderBy
-			// c.nome la chiave per cui deve ordinare la lista
-			// ToList() perchè OrderBy non restituisce una lista ma un elemento enumeriabile, quindi lo trasformo con ToList()
-			//Questo però non influenza l'ordine del csv che rimane in ordine di input
+			int n = lista.Count;
+
+			for (int i = 0; i < n - 1; i++)
+			{
+				int minIndex = i;
+
+				for (int j = i + 1; j < n; j++)
+				{
+					if (string.Compare(lista[j].nome, lista[minIndex].nome) < 0)
+					{
+						minIndex = j;
+					}
+				}
+
+				if (minIndex != i)
+				{
+					Crostata temp = lista[i];
+					lista[i] = lista[minIndex];
+					lista[minIndex] = temp;
+				}
+			}
 		}
+
 
 	}
 }
