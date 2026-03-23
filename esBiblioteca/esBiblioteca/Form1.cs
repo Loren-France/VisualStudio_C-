@@ -251,7 +251,7 @@ namespace esBiblioteca
 					string titolo = libri[i].titolo;
 					string autore = libri[i].autore;
 					string genere = libri[i].tipo.ToString();
-					int anno = libri[i].annoPubblicazione;
+					int year = libri[i].annoPubblicazione;
 					int numerop = libri[i].numeroPagine;
 					string sigla;
 					if (libri[i].disponibile)
@@ -263,7 +263,7 @@ namespace esBiblioteca
 						sigla = "No";
 					}
 					long codice = libri[i].codiceISBN;
-					sw.WriteLine($"{titolo};{autore};{genere};{anno};{numerop};{sigla};{codice}");
+					sw.WriteLine($"{titolo};{autore};{genere};{year};{numerop};{sigla};{codice}");
 				}
 			}
 
@@ -273,7 +273,7 @@ namespace esBiblioteca
 
 		private void btnFiltraGenere_Click(object sender, EventArgs e)
 		{
-			Genere Filtra1 = (Genere)cmbFiltraGenere.SelectedIndex;
+				Genere Filtra1 = (Genere)cmbFiltraGenere.SelectedIndex;
 			Filtraggio = true;
 			Form2 form2 = new Form2(libri, Filtraggio, Filtra1, "");
 			form2.Show();
