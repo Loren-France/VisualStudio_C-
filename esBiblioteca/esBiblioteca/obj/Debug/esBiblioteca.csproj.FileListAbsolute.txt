@@ -1,0 +1,11 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esBiblioteca\esBiblioteca\bin\Debug\esBiblioteca.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esBiblioteca\esBiblioteca\bin\Debug\esBiblioteca.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esBiblioteca\esBiblioteca\bin\Debug\esBiblioteca.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esBiblioteca\esBiblioteca\obj\Debug\esBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esBiblioteca\esBiblioteca\obj\Debug\esBiblioteca.Form1.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esBiblioteca\esBiblioteca\obj\Debug\esBiblioteca.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esBiblioteca\esBiblioteca\obj\Debug\esBiblioteca.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esBiblioteca\esBiblioteca\obj\Debug\esBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esBiblioteca\esBiblioteca\obj\Debug\esBiblioteca.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esBiblioteca\esBiblioteca\obj\Debug\esBiblioteca.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esBiblioteca\esBiblioteca\obj\Debug\esBiblioteca.Form2.resources
