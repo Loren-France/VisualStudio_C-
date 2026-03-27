@@ -1,0 +1,10 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esGiocoForza4\esGiocoForza4\obj\Debug\esGiocoForza4.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esGiocoForza4\esGiocoForza4\obj\Debug\esGiocoForza4.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esGiocoForza4\esGiocoForza4\obj\Debug\esGiocoForza4.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esGiocoForza4\esGiocoForza4\obj\Debug\esGiocoForza4.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esGiocoForza4\esGiocoForza4\bin\Debug\esGiocoForza4.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esGiocoForza4\esGiocoForza4\bin\Debug\esGiocoForza4.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esGiocoForza4\esGiocoForza4\bin\Debug\esGiocoForza4.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esGiocoForza4\esGiocoForza4\obj\Debug\esGiocoForza4.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esGiocoForza4\esGiocoForza4\obj\Debug\esGiocoForza4.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esGiocoForza4\esGiocoForza4\obj\Debug\esGiocoForza4.Form1.resources

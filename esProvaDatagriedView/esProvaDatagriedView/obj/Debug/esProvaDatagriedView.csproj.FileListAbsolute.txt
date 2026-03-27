@@ -1,0 +1,10 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDatagriedView\esProvaDatagriedView\obj\Debug\esProvaDatagriedView.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDatagriedView\esProvaDatagriedView\obj\Debug\esProvaDatagriedViewconMatrici.Form1.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDatagriedView\esProvaDatagriedView\obj\Debug\esProvaDatagriedView.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDatagriedView\esProvaDatagriedView\obj\Debug\esProvaDatagriedView.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDatagriedView\esProvaDatagriedView\obj\Debug\esProvaDatagriedView.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDatagriedView\esProvaDatagriedView\bin\Debug\esProvaDatagriedView.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDatagriedView\esProvaDatagriedView\bin\Debug\esProvaDatagriedView.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDatagriedView\esProvaDatagriedView\bin\Debug\esProvaDatagriedView.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDatagriedView\esProvaDatagriedView\obj\Debug\esProvaDatagriedView.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDatagriedView\esProvaDatagriedView\obj\Debug\esProvaDatagriedView.pdb
