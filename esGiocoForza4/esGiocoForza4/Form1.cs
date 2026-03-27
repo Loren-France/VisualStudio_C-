@@ -58,33 +58,41 @@ namespace esGiocoForza4
 			int r = e.RowIndex;
 			int c = e.ColumnIndex;
 
-			if (r != righe - 1)
+			if (dgvGriglia.Rows[r].Cells[c].Style.BackColor != Color.Yellow && dgvGriglia.Rows[r].Cells[c].Style.BackColor != Color.Red)
 			{
-				if (dgvGriglia.Rows[r + 1].Cells[c].Style.BackColor != Color.Red && dgvGriglia.Rows[r + 1].Cells[c].Style.BackColor != Color.Yellow)
+				if (r != righe - 1)
 				{
-					MessageBox.Show("Posizione non disponibile");
-					return;
+					if (dgvGriglia.Rows[r + 1].Cells[c].Style.BackColor != Color.Red && dgvGriglia.Rows[r + 1].Cells[c].Style.BackColor != Color.Yellow)
+					{
+						MessageBox.Show("Posizione non disponibile");
+						return;
+					}
 				}
-			}
 
-			giocatore = !giocatore;
+				giocatore = !giocatore;
 
-			if (giocatore)
-			{
-				dgvGriglia.Rows[r].Cells[c].Style.BackColor = Color.Red;
-				lblTurno.Text = "Turno: GIALLO";
-				lblTurno.ForeColor = Color.Yellow;
+				if (giocatore)
+				{
+					dgvGriglia.Rows[r].Cells[c].Style.BackColor = Color.Red;
+					lblTurno.Text = "Turno: GIALLO";
+					lblTurno.ForeColor = Color.Yellow;
+				}
+				else
+				{
+					dgvGriglia.Rows[r].Cells[c].Style.BackColor = Color.Yellow;
+					lblTurno.Text = "Turno: ROSSO";
+					lblTurno.ForeColor = Color.Red;
+				}
+
+				dgvGriglia.ClearSelection();
+
+				ControlloVittoria();
 			}
 			else
 			{
-				dgvGriglia.Rows[r].Cells[c].Style.BackColor = Color.Yellow;
-				lblTurno.Text = "Turno: ROSSO";
-				lblTurno.ForeColor = Color.Red;
+				MessageBox.Show("Cella gia occupata");
+				return;
 			}
-
-			dgvGriglia.ClearSelection();
-
-			ControlloVittoria();
 		}
 
 		private void ControlloVittoria()
