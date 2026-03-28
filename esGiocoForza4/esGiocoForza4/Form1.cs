@@ -14,6 +14,7 @@ namespace esGiocoForza4
 	{
 		public int righe;
 		public int colonne;
+		public int pr = 0, pg = 0;
 		public int[,] matrice;
 		public bool giocatore;
 		public bool vittoria;
@@ -37,7 +38,9 @@ namespace esGiocoForza4
 			dgvGriglia.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
 
 			dgvGriglia.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.None;
-
+			dgvGriglia.ScrollBars = ScrollBars.None;
+			dgvGriglia.AllowUserToResizeColumns = false;
+			dgvGriglia.AllowUserToResizeRows = false;
 			dgvGriglia.RowCount = righe;
 			dgvGriglia.ColumnCount = colonne;
 
@@ -172,11 +175,40 @@ namespace esGiocoForza4
 		}
 		private void Vittoria(Color colore)
 		{
-			string nome = colore == Color.Red ? "ROSSO"
-				: "GIALLO";
+			string nome;
+
+
+			if (colore == Color.Red)
+			{
+				nome = "ROSSO";
+				pr++;
+				lblVIttorieRosse.Text = $"Rosse: {pr}";
+			}
+			else
+			{
+				nome = "GIALLO";
+				pg++;
+				lblVittorieGialle.Text = $"Gialle: {pg}";
+			}
 			MessageBox.Show("Ha vinto: " + nome);
 			vittoria = true;
 			dgvGriglia.Enabled = false;
+			pnlStat.Visible = true;
+		}
+
+		private void btnReset_Click(object sender, EventArgs e)
+		{
+			for (int r = 0; r < righe; r++)
+			{
+				for (int c = 0; c < colonne; c++)
+				{
+					dgvGriglia.Rows[r].Cells[c].Style.BackColor = Color.Blue;
+				}
+			}
+			giocatore = true;
+			lblTurno.Text = "Turno: GIALLO";
+			lblTurno.ForeColor = Color.Yellow;
+			dgvGriglia.Enabled = true;
 		}
 	}
 }
