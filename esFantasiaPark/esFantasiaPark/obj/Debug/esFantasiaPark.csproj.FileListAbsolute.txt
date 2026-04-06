@@ -1,0 +1,13 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esFantasiaPark\esFantasiaPark\bin\Debug\esFantasiaPark.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esFantasiaPark\esFantasiaPark\bin\Debug\esFantasiaPark.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esFantasiaPark\esFantasiaPark\bin\Debug\esFantasiaPark.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esFantasiaPark\esFantasiaPark\obj\Debug\esFantasiaPark.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esFantasiaPark\esFantasiaPark\obj\Debug\esFantasiaPark.Form1.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esFantasiaPark\esFantasiaPark\obj\Debug\esFantasiaPark.Form_GestioneBiglietti.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esFantasiaPark\esFantasiaPark\obj\Debug\esFantasiaPark.Form_GestioneGiostre.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esFantasiaPark\esFantasiaPark\obj\Debug\esFantasiaPark.Form_GestioneAttrazioni.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esFantasiaPark\esFantasiaPark\obj\Debug\esFantasiaPark.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esFantasiaPark\esFantasiaPark\obj\Debug\esFantasiaPark.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esFantasiaPark\esFantasiaPark\obj\Debug\esFantasiaPark.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esFantasiaPark\esFantasiaPark\obj\Debug\esFantasiaPark.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esFantasiaPark\esFantasiaPark\obj\Debug\esFantasiaPark.pdb
