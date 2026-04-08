@@ -83,6 +83,7 @@
 			// 
 			// dttData
 			// 
+			this.dttData.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.dttData.Location = new System.Drawing.Point(634, 178);
 			this.dttData.Name = "dttData";
 			this.dttData.Size = new System.Drawing.Size(217, 22);
@@ -91,6 +92,7 @@
 			// 
 			// btnCrea
 			// 
+			this.btnCrea.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnCrea.Location = new System.Drawing.Point(677, 226);
 			this.btnCrea.Name = "btnCrea";
 			this.btnCrea.Size = new System.Drawing.Size(130, 49);
@@ -110,6 +112,7 @@
 			// 
 			// btnElimina
 			// 
+			this.btnElimina.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnElimina.Location = new System.Drawing.Point(823, 378);
 			this.btnElimina.Name = "btnElimina";
 			this.btnElimina.Size = new System.Drawing.Size(110, 29);
@@ -120,6 +123,7 @@
 			// 
 			// btnCerca
 			// 
+			this.btnCerca.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnCerca.Location = new System.Drawing.Point(695, 378);
 			this.btnCerca.Name = "btnCerca";
 			this.btnCerca.Size = new System.Drawing.Size(110, 29);

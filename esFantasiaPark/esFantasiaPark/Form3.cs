@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -25,7 +26,7 @@ namespace esFantasiaPark
 			}
 			public string Stampa()
 			{
-				return $"Giostra: {nome}, Capienza: {capienza} persone, Coda: {coda} persone";
+				return $"{nome};{capienza};{coda}";
 			}
 		}
 
@@ -57,6 +58,7 @@ namespace esFantasiaPark
 			lblCapienza2.Text = $"Capienza MAX: {g2.capienza}";
 			lblCapienza3.Text = $"Capienza MAX: {g3.capienza}";
 			AggiornamentoElementi();
+			AggiornaCSV();
 		}
 
 		private void btnAggiunta1_Click(object sender, EventArgs e)
@@ -72,12 +74,13 @@ namespace esFantasiaPark
 			txtAggiungere1.Clear();
 			FunzioneAggiunta(ref g1, aggiunta);
 			AggiornamentoElementi();
-
+			AggiornaCSV();
 		}
 
 		private void btnPartire1_Click(object sender, EventArgs e)
 		{
 			FunzionePartenza(ref g1);
+			AggiornaCSV();
 		}
 
 		private void btnAggiunta2_Click(object sender, EventArgs e)
@@ -93,11 +96,13 @@ namespace esFantasiaPark
 			txtAggiungere2.Clear();
 			FunzioneAggiunta(ref g2, aggiunta);
 			AggiornamentoElementi();
+			AggiornaCSV();
 		}
 
 		private void btnPartire2_Click(object sender, EventArgs e)
 		{
 			FunzionePartenza(ref g2);
+			AggiornaCSV();
 		}
 
 		private void btnAggiunta3_Click(object sender, EventArgs e)
@@ -113,11 +118,13 @@ namespace esFantasiaPark
 			txtAggiungere3.Clear();
 			FunzioneAggiunta(ref g3, aggiunta);
 			AggiornamentoElementi();
+			AggiornaCSV();
 		}
 
 		private void btnPartire3_Click(object sender, EventArgs e)
 		{
 			FunzionePartenza(ref g3);
+			AggiornaCSV();
 		}
 
 		private void FunzioneAggiunta(ref Giostra g, int add)
@@ -141,6 +148,18 @@ namespace esFantasiaPark
 			lblCoda1.Text = $"Coda: {g1.coda}";
 			lblCoda2.Text = $"Coda: {g2.coda}";
 			lblCoda3.Text = $"Coda: {g3.coda}";
+		}
+
+		private void AggiornaCSV()
+		{
+			using (var sw = new StreamWriter(@"lista_GestioneGiostre.csv", false))
+			{
+				sw.WriteLine(g1.Stampa());
+				sw.WriteLine(g2.Stampa());
+				sw.WriteLine(g3.Stampa());
+			}
+
+			MessageBox.Show("CSV aggiornato con successo!");
 		}
 	}
 }

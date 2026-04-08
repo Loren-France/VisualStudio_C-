@@ -99,6 +99,7 @@
 			// 
 			// btnAggiunta1
 			// 
+			this.btnAggiunta1.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnAggiunta1.Location = new System.Drawing.Point(439, 136);
 			this.btnAggiunta1.Name = "btnAggiunta1";
 			this.btnAggiunta1.Size = new System.Drawing.Size(150, 44);
@@ -109,6 +110,7 @@
 			// 
 			// btnPartire1
 			// 
+			this.btnPartire1.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnPartire1.Location = new System.Drawing.Point(609, 136);
 			this.btnPartire1.Name = "btnPartire1";
 			this.btnPartire1.Size = new System.Drawing.Size(83, 44);
@@ -157,6 +159,7 @@
 			// 
 			// btnPartire2
 			// 
+			this.btnPartire2.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnPartire2.Location = new System.Drawing.Point(609, 267);
 			this.btnPartire2.Name = "btnPartire2";
 			this.btnPartire2.Size = new System.Drawing.Size(83, 44);
@@ -167,6 +170,7 @@
 			// 
 			// btnAggiunta2
 			// 
+			this.btnAggiunta2.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnAggiunta2.Location = new System.Drawing.Point(439, 267);
 			this.btnAggiunta2.Name = "btnAggiunta2";
 			this.btnAggiunta2.Size = new System.Drawing.Size(150, 44);
@@ -228,6 +232,7 @@
 			// 
 			// btnPartire3
 			// 
+			this.btnPartire3.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnPartire3.Location = new System.Drawing.Point(609, 406);
 			this.btnPartire3.Name = "btnPartire3";
 			this.btnPartire3.Size = new System.Drawing.Size(83, 44);
@@ -238,6 +243,7 @@
 			// 
 			// btnAggiunta3
 			// 
+			this.btnAggiunta3.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnAggiunta3.Location = new System.Drawing.Point(439, 406);
 			this.btnAggiunta3.Name = "btnAggiunta3";
 			this.btnAggiunta3.Size = new System.Drawing.Size(150, 44);

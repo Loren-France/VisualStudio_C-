@@ -141,6 +141,7 @@
 			// 
 			// btnAzione1
 			// 
+			this.btnAzione1.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnAzione1.Location = new System.Drawing.Point(608, 140);
 			this.btnAzione1.Name = "btnAzione1";
 			this.btnAzione1.Size = new System.Drawing.Size(107, 44);
@@ -212,6 +213,7 @@
 			// 
 			// btnAzione2
 			// 
+			this.btnAzione2.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnAzione2.Location = new System.Drawing.Point(608, 271);
 			this.btnAzione2.Name = "btnAzione2";
 			this.btnAzione2.Size = new System.Drawing.Size(107, 44);
@@ -222,6 +224,7 @@
 			// 
 			// btnAzione3
 			// 
+			this.btnAzione3.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnAzione3.Location = new System.Drawing.Point(608, 410);
 			this.btnAzione3.Name = "btnAzione3";
 			this.btnAzione3.Size = new System.Drawing.Size(107, 44);
@@ -234,6 +237,7 @@
 			// 
 			this.rdbEntrata1.AutoSize = true;
 			this.rdbEntrata1.BackColor = System.Drawing.Color.Transparent;
+			this.rdbEntrata1.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.rdbEntrata1.Location = new System.Drawing.Point(443, 152);
 			this.rdbEntrata1.Name = "rdbEntrata1";
 			this.rdbEntrata1.Size = new System.Drawing.Size(145, 20);
@@ -246,6 +250,7 @@
 			// 
 			this.rdbUscita1.AutoSize = true;
 			this.rdbUscita1.BackColor = System.Drawing.Color.Transparent;
+			this.rdbUscita1.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.rdbUscita1.Location = new System.Drawing.Point(443, 178);
 			this.rdbUscita1.Name = "rdbUscita1";
 			this.rdbUscita1.Size = new System.Drawing.Size(139, 20);
@@ -294,6 +299,7 @@
 			// 
 			this.rdbUscita2.AutoSize = true;
 			this.rdbUscita2.BackColor = System.Drawing.Color.Transparent;
+			this.rdbUscita2.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.rdbUscita2.Location = new System.Drawing.Point(443, 312);
 			this.rdbUscita2.Name = "rdbUscita2";
 			this.rdbUscita2.Size = new System.Drawing.Size(139, 20);
@@ -306,6 +312,7 @@
 			// 
 			this.rdbEntrata2.AutoSize = true;
 			this.rdbEntrata2.BackColor = System.Drawing.Color.Transparent;
+			this.rdbEntrata2.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.rdbEntrata2.Location = new System.Drawing.Point(443, 286);
 			this.rdbEntrata2.Name = "rdbEntrata2";
 			this.rdbEntrata2.Size = new System.Drawing.Size(145, 20);
@@ -327,6 +334,7 @@
 			// 
 			this.rdbUscita3.AutoSize = true;
 			this.rdbUscita3.BackColor = System.Drawing.Color.Transparent;
+			this.rdbUscita3.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.rdbUscita3.Location = new System.Drawing.Point(443, 451);
 			this.rdbUscita3.Name = "rdbUscita3";
 			this.rdbUscita3.Size = new System.Drawing.Size(139, 20);
@@ -339,6 +347,7 @@
 			// 
 			this.rdbEntrata3.AutoSize = true;
 			this.rdbEntrata3.BackColor = System.Drawing.Color.Transparent;
+			this.rdbEntrata3.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.rdbEntrata3.Location = new System.Drawing.Point(443, 425);
 			this.rdbEntrata3.Name = "rdbEntrata3";
 			this.rdbEntrata3.Size = new System.Drawing.Size(145, 20);
@@ -352,7 +361,7 @@
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackgroundImage = global::esFantasiaPark.Properties.Resources.Screenshot_2026_03_31_082243;
-			this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+			this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
 			this.ClientSize = new System.Drawing.Size(956, 536);
 			this.Controls.Add(this.lblSelezione3);
 			this.Controls.Add(this.rdbUscita3);

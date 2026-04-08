@@ -78,6 +78,7 @@
 			// 
 			// btnGestioneBiglietti
 			// 
+			this.btnGestioneBiglietti.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnGestioneBiglietti.Location = new System.Drawing.Point(81, 253);
 			this.btnGestioneBiglietti.Name = "btnGestioneBiglietti";
 			this.btnGestioneBiglietti.Size = new System.Drawing.Size(171, 81);
@@ -88,6 +89,7 @@
 			// 
 			// btnGestioneGiostre
 			// 
+			this.btnGestioneGiostre.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnGestioneGiostre.Location = new System.Drawing.Point(367, 253);
 			this.btnGestioneGiostre.Name = "btnGestioneGiostre";
 			this.btnGestioneGiostre.Size = new System.Drawing.Size(171, 81);
@@ -98,6 +100,7 @@
 			// 
 			// btnGestioneAttrazioni
 			// 
+			this.btnGestioneAttrazioni.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnGestioneAttrazioni.Location = new System.Drawing.Point(634, 253);
 			this.btnGestioneAttrazioni.Name = "btnGestioneAttrazioni";
 			this.btnGestioneAttrazioni.Size = new System.Drawing.Size(171, 81);
@@ -109,6 +112,7 @@
 			// btnChiusura
 			// 
 			this.btnChiusura.BackColor = System.Drawing.Color.Red;
+			this.btnChiusura.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnChiusura.ForeColor = System.Drawing.Color.White;
 			this.btnChiusura.Location = new System.Drawing.Point(367, 447);
 			this.btnChiusura.Name = "btnChiusura";
