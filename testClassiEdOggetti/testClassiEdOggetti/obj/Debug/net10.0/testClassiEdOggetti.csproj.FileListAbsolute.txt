@@ -1,0 +1,15 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\testClassiEdOggetti\testClassiEdOggetti\bin\Debug\net10.0\testClassiEdOggetti.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\testClassiEdOggetti\testClassiEdOggetti\bin\Debug\net10.0\testClassiEdOggetti.deps.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\testClassiEdOggetti\testClassiEdOggetti\bin\Debug\net10.0\testClassiEdOggetti.runtimeconfig.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\testClassiEdOggetti\testClassiEdOggetti\bin\Debug\net10.0\testClassiEdOggetti.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\testClassiEdOggetti\testClassiEdOggetti\bin\Debug\net10.0\testClassiEdOggetti.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\testClassiEdOggetti\testClassiEdOggetti\obj\Debug\net10.0\testClassiEdOggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\testClassiEdOggetti\testClassiEdOggetti\obj\Debug\net10.0\testClassiEdOggetti.AssemblyInfoInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\testClassiEdOggetti\testClassiEdOggetti\obj\Debug\net10.0\testClassiEdOggetti.AssemblyInfo.cs
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\testClassiEdOggetti\testClassiEdOggetti\obj\Debug\net10.0\testClassiEdOggetti.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\testClassiEdOggetti\testClassiEdOggetti\obj\Debug\net10.0\testClassiEdOggetti.sourcelink.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\testClassiEdOggetti\testClassiEdOggetti\obj\Debug\net10.0\testClassiEdOggetti.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\testClassiEdOggetti\testClassiEdOggetti\obj\Debug\net10.0\refint\testClassiEdOggetti.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\testClassiEdOggetti\testClassiEdOggetti\obj\Debug\net10.0\testClassiEdOggetti.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\testClassiEdOggetti\testClassiEdOggetti\obj\Debug\net10.0\testClassiEdOggetti.genruntimeconfig.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\testClassiEdOggetti\testClassiEdOggetti\obj\Debug\net10.0\ref\testClassiEdOggetti.dll
