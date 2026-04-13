@@ -177,10 +177,21 @@ namespace esFantasiaPark
 
 		private void EntrataPersone (ref Attrazione attrazione, int add)
 		{
+			bool max = false;
 			if (attrazione.personeAttuali + add > attrazione.capienzaMAX)
 			{
-				MessageBox.Show($"Spiacenti, il numero di persone da aggiungere con quelle attualmente dentro all'attrazione supera il massimo di {attrazione.capienzaMAX} persone, annullamento dell'entrata");
-				return;
+				max = attrazione.capienzaMAX == attrazione.personeAttuali ? true : false;
+				attrazione.personeAttuali = attrazione.capienzaMAX;
+				if (max)
+				{
+					MessageBox.Show($"L'attrazione {attrazione.nome} è già al massimo della capienza, non posso far entrare nessuna persona");
+					return;	
+				}
+				else 
+				{
+					MessageBox.Show($"Spiacenti, il numero di persone da aggiungere con quelle attualmente dentro all'attrazione supera il massimo di {attrazione.capienzaMAX} persone, faccio entrare solo le persone disponibili");
+					return;
+				}
 			}
 			else
 			{
