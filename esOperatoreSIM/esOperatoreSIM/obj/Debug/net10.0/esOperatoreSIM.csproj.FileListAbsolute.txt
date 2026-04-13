@@ -1,0 +1,15 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIM\esOperatoreSIM\bin\Debug\net10.0\esOperatoreSIM.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIM\esOperatoreSIM\bin\Debug\net10.0\esOperatoreSIM.deps.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIM\esOperatoreSIM\bin\Debug\net10.0\esOperatoreSIM.runtimeconfig.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIM\esOperatoreSIM\bin\Debug\net10.0\esOperatoreSIM.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIM\esOperatoreSIM\bin\Debug\net10.0\esOperatoreSIM.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIM\esOperatoreSIM\obj\Debug\net10.0\esOperatoreSIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIM\esOperatoreSIM\obj\Debug\net10.0\esOperatoreSIM.AssemblyInfoInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIM\esOperatoreSIM\obj\Debug\net10.0\esOperatoreSIM.AssemblyInfo.cs
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIM\esOperatoreSIM\obj\Debug\net10.0\esOperatoreSIM.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIM\esOperatoreSIM\obj\Debug\net10.0\esOperatoreSIM.sourcelink.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIM\esOperatoreSIM\obj\Debug\net10.0\esOperatoreSIM.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIM\esOperatoreSIM\obj\Debug\net10.0\refint\esOperatoreSIM.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIM\esOperatoreSIM\obj\Debug\net10.0\esOperatoreSIM.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIM\esOperatoreSIM\obj\Debug\net10.0\esOperatoreSIM.genruntimeconfig.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIM\esOperatoreSIM\obj\Debug\net10.0\ref\esOperatoreSIM.dll
