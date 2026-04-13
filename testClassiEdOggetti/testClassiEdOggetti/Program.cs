@@ -14,7 +14,7 @@ biblio.AggiungiAutore(yourcenar);
 
 Console.WriteLine($"{biblio.Nome()}\nElenco Autori:");
 foreach (Autore autore in biblio.ElencoAutori())
-	Console.WriteLine($"- {autore.Info()}\n libri presenti: {autore.LibriPubblicati.Length}");
+  Console.WriteLine($"- {autore.Info()}\n libri presenti: {autore.LibriPubblicati().Count}");
 
 int idx = 0;
 Console.WriteLine("Elenco Libri:");

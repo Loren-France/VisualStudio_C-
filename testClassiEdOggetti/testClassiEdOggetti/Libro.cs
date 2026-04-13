@@ -19,12 +19,25 @@ namespace testClassiEdOggetti
 			this.anno = anno;
 			this.pagine = pagine;
 			this.autore = autore;
-			//autore.Aggiungi(this);
 		}
 
 		public string Info()
 		{
-			return $"{this.titolo} di {this.autore.Info()} (Anno {this.anno}, Pagine {this.pagine})";
+			return $"{this.titolo} di {this.autore.NomeCompleto()} (Anno {this.anno}, Pagine {this.pagine})";
+		}
+
+        public string Titolo() 
+	    { 
+			return this.titolo;
+		}
+
+		public int Anno() 
+		{
+			return this.anno;
+		}
+		public int Pagine() 
+		{
+			return this.pagine;
 		}
 	}
 }

@@ -21,7 +21,7 @@ namespace testClassiEdOggetti
 
 		public string Info()
 		{
-			return $"Cognome: {this.cognome}, Nome: {this.nome}, Sesso: {this.sesso}, Data di Nascita: {this.dataNascita}, Libri: {string.Join(",", libri)}";
+           return $"Cognome: {this.cognome}, Nome: {this.nome}, Sesso: {this.sesso}, Data di Nascita: {this.dataNascita}, Libri: {string.Join(", ", libri.ConvertAll(l => l.Info()))}";
 		}
 
 		public int Aggiungi (Libro nuovo)
@@ -29,5 +29,10 @@ namespace testClassiEdOggetti
 			this.libri.Add(nuovo);
 			return this.libri.Count;
 		}
+
+        public List<Libro> LibriPubblicati() { return this.libri; }
+		public string NomeCompleto() { return this.nome + " " + this.cognome; }
+
+		public int DataNascita() { return this.dataNascita; }
 	}
 }
