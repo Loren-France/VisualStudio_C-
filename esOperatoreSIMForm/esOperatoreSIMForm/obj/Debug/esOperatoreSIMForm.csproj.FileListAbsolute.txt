@@ -1,0 +1,10 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIMForm\esOperatoreSIMForm\bin\Debug\esOperatoreSIMForm.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIMForm\esOperatoreSIMForm\bin\Debug\esOperatoreSIMForm.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIMForm\esOperatoreSIMForm\bin\Debug\esOperatoreSIMForm.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIMForm\esOperatoreSIMForm\obj\Debug\esOperatoreSIMForm.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIMForm\esOperatoreSIMForm\obj\Debug\esOperatoreSIMForm.Form1.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIMForm\esOperatoreSIMForm\obj\Debug\esOperatoreSIMForm.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIMForm\esOperatoreSIMForm\obj\Debug\esOperatoreSIMForm.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIMForm\esOperatoreSIMForm\obj\Debug\esOperatoreSIMForm.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIMForm\esOperatoreSIMForm\obj\Debug\esOperatoreSIMForm.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esOperatoreSIMForm\esOperatoreSIMForm\obj\Debug\esOperatoreSIMForm.pdb

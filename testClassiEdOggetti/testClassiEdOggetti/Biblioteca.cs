@@ -17,7 +17,7 @@ namespace testClassiEdOggetti
 			this.libri = new List<Libro> { };
 		}
 
-        public override string ToString()
+        public string ToString()
 		{
           string s = "Biblioteca: " + this.nome + "\nAutori:\n";
 			foreach (Autore a in autori)
@@ -30,10 +30,10 @@ namespace testClassiEdOggetti
 
 		public int AggiungiAutore(Autore nuovo)
 		{
-         this.autori.Add(nuovo);
-		 foreach (Libro l in nuovo.LibriPubblicati())
+			this.autori.Add(nuovo);
+			foreach (Libro l in nuovo.LibriPubblicati())
 			 this.libri.Add(l);
-		 return this.autori.Count;
+			return this.autori.Count;
 		}
 
 		public int AggiungiLibro(Libro nuovo)

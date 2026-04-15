@@ -33,6 +33,9 @@ namespace testClassiEdOggetti
         public List<Libro> LibriPubblicati() { return this.libri; }
 		public string NomeCompleto() { return this.nome + " " + this.cognome; }
 
-		public int DataNascita() { return this.dataNascita; }
+		public int DataNascita() 
+		{ 
+			return this.dataNascita; 
+		}
 	}
 }

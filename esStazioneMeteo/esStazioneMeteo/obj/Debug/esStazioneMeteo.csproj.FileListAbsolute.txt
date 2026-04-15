@@ -1,0 +1,10 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esStazioneMeteo\esStazioneMeteo\bin\Debug\esStazioneMeteo.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esStazioneMeteo\esStazioneMeteo\bin\Debug\esStazioneMeteo.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esStazioneMeteo\esStazioneMeteo\bin\Debug\esStazioneMeteo.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esStazioneMeteo\esStazioneMeteo\obj\Debug\esStazioneMeteo.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esStazioneMeteo\esStazioneMeteo\obj\Debug\esStazioneMeteo.Form1.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esStazioneMeteo\esStazioneMeteo\obj\Debug\esStazioneMeteo.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esStazioneMeteo\esStazioneMeteo\obj\Debug\esStazioneMeteo.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esStazioneMeteo\esStazioneMeteo\obj\Debug\esStazioneMeteo.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esStazioneMeteo\esStazioneMeteo\obj\Debug\esStazioneMeteo.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esStazioneMeteo\esStazioneMeteo\obj\Debug\esStazioneMeteo.pdb

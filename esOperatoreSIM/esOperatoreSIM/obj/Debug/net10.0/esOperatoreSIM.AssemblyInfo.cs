@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("esOperatoreSIM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef14919bcb913b1a8f4c54aafa23614def9b2a4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14b78627d784efd9d296b47e50d89b341cbf76d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("esOperatoreSIM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("esOperatoreSIM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
