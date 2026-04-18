@@ -20,16 +20,45 @@ namespace esStazioneMeteo
 		}
 
 		List<StazioneMeteo> stazioni = new List<StazioneMeteo>();
+
 		private void Form1_Load(object sender, EventArgs e)
 		{
+			string fullPath = @"lista_Stazioni.csv";
+			string[] righe = File.ReadAllLines(fullPath);
+			char div = ';';
 
+			for (int i = 0; i < righe.Length; i++)
+			{
+				if (i == 0)
+				{
+					continue;
+				}
+				string[] dati = righe[i].Split(div);
+				int num = int.Parse(dati[0]);
+				double press = double.Parse(dati[1]);
+				string[] valori = dati[2].Split(':');
+				double[] temp = new double[valori.Length];
+				for (int j = 0; j < valori.Length; j++)
+				{
+					temp[j] = double.Parse(valori[j]);
+				}
+				double piogg = double.Parse(dati[3]);
+				int umid = int.Parse(dati[4]);
+				double vel = double.Parse(dati[5]);
+				
+				StazioneMeteo stazione = new StazioneMeteo(num, press, piogg, umid, vel);
+				stazione.AggiungiTemperatura(temp);
+				stazioni.Add(stazione);
+			}
+			MessageBox.Show($"Dati letti con successo dal CSV: {fullPath}");
+			AggiornaLista();
 		}
 
 		private void txtStazione_KeyPress(object sender, KeyPressEventArgs e)
 		{
 			char carattere = e.KeyChar;
 
-			if (!char.IsNumber(carattere) && !char.IsControl(carattere) && carattere != '.')
+			if (!char.IsNumber(carattere) && !char.IsControl(carattere) && carattere != '.' && carattere != ',')
 			{
 				e.Handled = true;
 			}
@@ -111,8 +140,8 @@ namespace esStazioneMeteo
 						sw.WriteLine("Numero;Barometro;Termometro;Pluviometro;Igrometro;Anemometro;Presenza di pioggia?");
 						continue;
 					}
-					var temps = stazioni[i].Temperature ?? new double[0];
-					sw.WriteLine($"{stazioni[i].Numero};{stazioni[i].Pressione};{string.Join(",", temps)};{stazioni[i].Pioggia};{stazioni[i].Umidità};{stazioni[i].Velocità};{stazioni[i].Piovuto(stazioni[i].Pioggia)}");
+					double[] temps = stazioni[i].Temperature;
+					sw.WriteLine($"{stazioni[i].Numero};{stazioni[i].Pressione};{string.Join(":", temps)};{stazioni[i].Pioggia};{stazioni[i].Umidità};{stazioni[i].Velocità};{stazioni[i].Piovuto(stazioni[i].Pioggia)}");
 				}
 			}
 			MessageBox.Show("CSV aggiornato con successo!");
