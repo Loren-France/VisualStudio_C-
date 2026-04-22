@@ -1,0 +1,15 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esEcception\esEcception\bin\Debug\net10.0\esEcception.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esEcception\esEcception\bin\Debug\net10.0\esEcception.deps.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esEcception\esEcception\bin\Debug\net10.0\esEcception.runtimeconfig.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esEcception\esEcception\bin\Debug\net10.0\esEcception.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esEcception\esEcception\bin\Debug\net10.0\esEcception.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esEcception\esEcception\obj\Debug\net10.0\esEcception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esEcception\esEcception\obj\Debug\net10.0\esEcception.AssemblyInfoInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esEcception\esEcception\obj\Debug\net10.0\esEcception.AssemblyInfo.cs
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esEcception\esEcception\obj\Debug\net10.0\esEcception.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esEcception\esEcception\obj\Debug\net10.0\esEcception.sourcelink.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esEcception\esEcception\obj\Debug\net10.0\esEcception.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esEcception\esEcception\obj\Debug\net10.0\refint\esEcception.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esEcception\esEcception\obj\Debug\net10.0\esEcception.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esEcception\esEcception\obj\Debug\net10.0\esEcception.genruntimeconfig.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esEcception\esEcception\obj\Debug\net10.0\ref\esEcception.dll
