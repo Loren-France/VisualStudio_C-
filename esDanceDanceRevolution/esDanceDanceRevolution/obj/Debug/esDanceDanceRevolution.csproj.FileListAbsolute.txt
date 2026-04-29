@@ -1,0 +1,10 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDanceDanceRevolution\esDanceDanceRevolution\bin\Debug\esDanceDanceRevolution.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDanceDanceRevolution\esDanceDanceRevolution\bin\Debug\esDanceDanceRevolution.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDanceDanceRevolution\esDanceDanceRevolution\bin\Debug\esDanceDanceRevolution.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDanceDanceRevolution\esDanceDanceRevolution\obj\Debug\esDanceDanceRevolution.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDanceDanceRevolution\esDanceDanceRevolution\obj\Debug\esDanceDanceRevolution.Form1.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDanceDanceRevolution\esDanceDanceRevolution\obj\Debug\esDanceDanceRevolution.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDanceDanceRevolution\esDanceDanceRevolution\obj\Debug\esDanceDanceRevolution.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDanceDanceRevolution\esDanceDanceRevolution\obj\Debug\esDanceDanceRevolution.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDanceDanceRevolution\esDanceDanceRevolution\obj\Debug\esDanceDanceRevolution.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esDanceDanceRevolution\esDanceDanceRevolution\obj\Debug\esDanceDanceRevolution.pdb

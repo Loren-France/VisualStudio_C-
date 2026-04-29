@@ -1,0 +1,15 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esParcoMacchineManutenzione\esParcoMacchineManutenzione\bin\Debug\net10.0\esParcoMacchineManutenzione.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esParcoMacchineManutenzione\esParcoMacchineManutenzione\bin\Debug\net10.0\esParcoMacchineManutenzione.deps.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esParcoMacchineManutenzione\esParcoMacchineManutenzione\bin\Debug\net10.0\esParcoMacchineManutenzione.runtimeconfig.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esParcoMacchineManutenzione\esParcoMacchineManutenzione\bin\Debug\net10.0\esParcoMacchineManutenzione.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esParcoMacchineManutenzione\esParcoMacchineManutenzione\bin\Debug\net10.0\esParcoMacchineManutenzione.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esParcoMacchineManutenzione\esParcoMacchineManutenzione\obj\Debug\net10.0\esParcoMacchineManutenzione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esParcoMacchineManutenzione\esParcoMacchineManutenzione\obj\Debug\net10.0\esParcoMacchineManutenzione.AssemblyInfoInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esParcoMacchineManutenzione\esParcoMacchineManutenzione\obj\Debug\net10.0\esParcoMacchineManutenzione.AssemblyInfo.cs
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esParcoMacchineManutenzione\esParcoMacchineManutenzione\obj\Debug\net10.0\esParcoMacchineManutenzione.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esParcoMacchineManutenzione\esParcoMacchineManutenzione\obj\Debug\net10.0\esParcoMacchineManutenzione.sourcelink.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esParcoMacchineManutenzione\esParcoMacchineManutenzione\obj\Debug\net10.0\esParcoMacchineManutenzione.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esParcoMacchineManutenzione\esParcoMacchineManutenzione\obj\Debug\net10.0\refint\esParcoMacchineManutenzione.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esParcoMacchineManutenzione\esParcoMacchineManutenzione\obj\Debug\net10.0\esParcoMacchineManutenzione.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esParcoMacchineManutenzione\esParcoMacchineManutenzione\obj\Debug\net10.0\esParcoMacchineManutenzione.genruntimeconfig.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esParcoMacchineManutenzione\esParcoMacchineManutenzione\obj\Debug\net10.0\ref\esParcoMacchineManutenzione.dll
