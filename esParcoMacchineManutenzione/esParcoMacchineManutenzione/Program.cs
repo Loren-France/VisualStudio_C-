@@ -18,18 +18,27 @@ namespace esParcoMacchineManutenzione
 			CIntervento intervento4 = new CIntervento(4, Categoria.Sostituzione, 700.0, DateTime.Now);
 			CIntervento intervento5 = new CIntervento(5, Categoria.Sostituzione, -100.0, DateTime.Now);
 			CIntervento intervento6 = new CIntervento(6, Categoria.Controllo, 800.0, DateTime.Now);
-			registro.AggiungiIntervento(intervento1);
-			registro.AggiungiIntervento(intervento2);
-			registro.AggiungiIntervento(intervento3);
-			registro.AggiungiIntervento(intervento4);
-			registro.AggiungiIntervento(intervento5);
-			registro.AggiungiIntervento(intervento6);
-			registro.StampaRegistro();
-			registro.RicercaIntervento(2);
-			registro.RimuoviIntervento(1);
-			registro.StampaRegistro();
-			registro.RicercaIntervento(1);
-			registro.RicercaIntervento(6);
+			CIntervento intervento7 = new CIntervento(7, Categoria.Controllo, 1000.0, DateTime.Now);
+			WriteLine(registro.AggiungiIntervento(intervento1));
+			WriteLine(registro.AggiungiIntervento(intervento2));
+			WriteLine(registro.AggiungiIntervento(intervento3));
+			WriteLine(registro.AggiungiIntervento(intervento4));
+			WriteLine(registro.AggiungiIntervento(intervento5));
+			WriteLine(registro.AggiungiIntervento(intervento6));
+			WriteLine(registro.AggiungiIntervento(intervento7));
+			foreach (CIntervento i in registro.Interventi)
+			{
+				WriteLine(registro.StampaRegistro(i));
+			}
+			WriteLine(registro.RicercaIntervento(2));
+			WriteLine(registro.RimuoviIntervento(1));
+			foreach (CIntervento i in registro.Interventi)
+			{
+				WriteLine(registro.StampaRegistro(i));
+			}
+			WriteLine(registro.RicercaIntervento(1));
+			WriteLine(registro.RicercaIntervento(6));
+			WriteLine(registro.RicercaIntervento(7));
 			GeneraReportAvanzato(registro);
 		}
 
@@ -110,7 +119,10 @@ namespace esParcoMacchineManutenzione
 			 WriteLine($"Costo massimo per categoria => Controllo: {max[0]}, Riparazione: {max[1]}, Sostituzione: {max[2]}");
 			 WriteLine($"Costo minimo per categoria => Controllo: {min[0]}, Riparazione: {min[1]}, Sostituzione: {min[2]}\n");
 			 WriteLine("Interventi critici:");
-			 registro.InterventiCritici();
+			foreach (CIntervento i in registro.Interventi)
+			{
+				Write(registro.InterventiCritici(i));
+			}
 		}
 	}
 }

@@ -27,7 +27,7 @@ namespace esParcoMacchineManutenzione
 			this.tecnicoResponsabile = tecnicoResponsabile;
 		}
 
-		public void AggiungiIntervento(CIntervento intervento)
+		public string AggiungiIntervento(CIntervento intervento)
 		{
 			try
 			{
@@ -36,50 +36,42 @@ namespace esParcoMacchineManutenzione
 					throw new ArgumentException("Il costo dell'intervento non può essere negativo");
 				}
 				interventi.Add(intervento);
+				return ""; 
 			}
 			catch (Exception ex)
 			{
-				Console.WriteLine("Errore durante l'aggiunta dell'intervento: " + ex.Message);
-				return;
+				return ("Errore durante l'aggiunta dell'intervento: " + ex.Message);
 			}
 		}
 
-		public void RimuoviIntervento(int codiceIntervento)
+		public string RimuoviIntervento(int codiceIntervento)
 		{
 			for (int i = 0; i < interventi.Count; i++)
 			{
 				if (interventi[i].Codice == codiceIntervento)
 				{
 					interventi.RemoveAt(i);
-					Console.WriteLine("\nIntervento rimosso con successo");
-					return;
+					return ("\nIntervento rimosso con successo\n");
 				}
 			}
+			return "\nIntervento non trovato";
 		}
 
-		public void RicercaIntervento(int codiceIntervento)
+		public string RicercaIntervento(int codiceIntervento)
 		{
-			Console.WriteLine("\nIntervento ricercato: ");
   			for (int i = 0; i < interventi.Count; i++)
 			{
    				if (interventi[i].Codice == codiceIntervento)
 				{
-					Console.WriteLine(interventi[i].ToStringIntervento());
-					return;
+					return ("\nIntervento ricercato: " + interventi[i].ToStringIntervento());
 				}
 			}
-			Console.WriteLine("Intervento non trovato");
-			return;
+			return ("\nIntervento non trovato");
 		}
 
-		public void StampaRegistro()
+		public string StampaRegistro(CIntervento i)
 		{
-			Console.WriteLine();
-			foreach (CIntervento i in interventi)
-			{
-				Console.WriteLine(i.ToStringIntervento());
-			}
-			Console.WriteLine();
+			return (i.ToStringIntervento());
 		}
 
 		public double CalcolaTotaleCosti()
@@ -105,18 +97,13 @@ namespace esParcoMacchineManutenzione
 			return counter;
 		}
 
-		public void InterventiCritici()
+		public string InterventiCritici(CIntervento i)
 		{
-			Console.WriteLine();
-			for (int i = 0; i < interventi.Count; i++)
+			if (i.Categoria == (Categoria)0)
 			{
-				if (interventi[i].Categoria == (Categoria)0)
-				{
-					Console.WriteLine(interventi[i].ToStringIntervento() + " INTERVENTO CRITICO !!!");
-				}
+				return (i.ToStringIntervento() + " INTERVENTO CRITICO !!!\n");
 			}
-			Console.WriteLine();
-			return;
+			return "";
 		}
 
 		public List<CIntervento> Interventi

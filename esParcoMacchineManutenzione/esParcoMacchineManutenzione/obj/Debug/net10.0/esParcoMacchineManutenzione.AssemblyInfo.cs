@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("esParcoMacchineManutenzione")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53562e3d0477f09bd0585c7c50ead2987e785386")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a12be6aaba0124f841909af1a5fc5a4eafc6d112")]
 [assembly: System.Reflection.AssemblyProductAttribute("esParcoMacchineManutenzione")]
 [assembly: System.Reflection.AssemblyTitleAttribute("esParcoMacchineManutenzione")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
