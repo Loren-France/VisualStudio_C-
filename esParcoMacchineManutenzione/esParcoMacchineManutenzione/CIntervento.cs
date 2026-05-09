@@ -42,6 +42,10 @@ namespace esParcoMacchineManutenzione
 			{
 				return costoIntervento;
 			}
+			set
+			{
+				costoIntervento = value;
+			}
 		}
 		public int Codice
 		{

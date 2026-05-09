@@ -1,0 +1,15 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDictionary\esProvaDictionary\bin\Debug\net10.0\esProvaDictionary.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDictionary\esProvaDictionary\bin\Debug\net10.0\esProvaDictionary.deps.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDictionary\esProvaDictionary\bin\Debug\net10.0\esProvaDictionary.runtimeconfig.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDictionary\esProvaDictionary\bin\Debug\net10.0\esProvaDictionary.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDictionary\esProvaDictionary\bin\Debug\net10.0\esProvaDictionary.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDictionary\esProvaDictionary\obj\Debug\net10.0\esProvaDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDictionary\esProvaDictionary\obj\Debug\net10.0\esProvaDictionary.AssemblyInfoInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDictionary\esProvaDictionary\obj\Debug\net10.0\esProvaDictionary.AssemblyInfo.cs
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDictionary\esProvaDictionary\obj\Debug\net10.0\esProvaDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDictionary\esProvaDictionary\obj\Debug\net10.0\esProvaDictionary.sourcelink.json
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDictionary\esProvaDictionary\obj\Debug\net10.0\esProvaDictionary.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDictionary\esProvaDictionary\obj\Debug\net10.0\refint\esProvaDictionary.dll
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDictionary\esProvaDictionary\obj\Debug\net10.0\esProvaDictionary.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDictionary\esProvaDictionary\obj\Debug\net10.0\esProvaDictionary.genruntimeconfig.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esProvaDictionary\esProvaDictionary\obj\Debug\net10.0\ref\esProvaDictionary.dll

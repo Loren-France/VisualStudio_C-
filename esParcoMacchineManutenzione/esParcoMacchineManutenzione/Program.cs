@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Net.Http.Headers;
-using System.Net.Security;
 using esParcoMacchineManutenzione;
 using static System.Console;
 
