@@ -48,15 +48,15 @@
 			this.pnlDati.Controls.Add(this.lblNickname);
 			this.pnlDati.Controls.Add(this.txtNickname);
 			this.pnlDati.Controls.Add(this.btnStart);
-			this.pnlDati.Location = new System.Drawing.Point(1202, 752);
+			this.pnlDati.Location = new System.Drawing.Point(59, 54);
 			this.pnlDati.Name = "pnlDati";
-			this.pnlDati.Size = new System.Drawing.Size(295, 208);
+			this.pnlDati.Size = new System.Drawing.Size(928, 610);
 			this.pnlDati.TabIndex = 0;
 			// 
 			// lblNickname
 			// 
 			this.lblNickname.AutoSize = true;
-			this.lblNickname.Location = new System.Drawing.Point(23, 20);
+			this.lblNickname.Location = new System.Drawing.Point(356, 239);
 			this.lblNickname.Name = "lblNickname";
 			this.lblNickname.Size = new System.Drawing.Size(206, 16);
 			this.lblNickname.TabIndex = 2;
@@ -64,7 +64,7 @@
 			// 
 			// txtNickname
 			// 
-			this.txtNickname.Location = new System.Drawing.Point(26, 43);
+			this.txtNickname.Location = new System.Drawing.Point(335, 262);
 			this.txtNickname.Name = "txtNickname";
 			this.txtNickname.Size = new System.Drawing.Size(249, 22);
 			this.txtNickname.TabIndex = 1;
@@ -72,7 +72,7 @@
 			// 
 			// btnStart
 			// 
-			this.btnStart.Location = new System.Drawing.Point(92, 107);
+			this.btnStart.Location = new System.Drawing.Point(405, 326);
 			this.btnStart.Name = "btnStart";
 			this.btnStart.Size = new System.Drawing.Size(109, 68);
 			this.btnStart.TabIndex = 0;
@@ -112,7 +112,7 @@
 			// 
 			// btn1
 			// 
-			this.btn1.BackgroundImage = global::esDanceDanceRevolution.Properties.Resources.freccia_su;
+			this.btn1.BackgroundImage = global::esDanceDanceRevolution.Properties.Resources.frecciaSu;
 			this.btn1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
 			this.btn1.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btn1.Location = new System.Drawing.Point(466, 172);
@@ -120,10 +120,11 @@
 			this.btn1.Size = new System.Drawing.Size(156, 156);
 			this.btn1.TabIndex = 8;
 			this.btn1.UseVisualStyleBackColor = true;
+			this.btn1.Click += new System.EventHandler(this.Btn1_Click);
 			// 
 			// btn2
 			// 
-			this.btn2.BackgroundImage = global::esDanceDanceRevolution.Properties.Resources.freccia_sx;
+			this.btn2.BackgroundImage = global::esDanceDanceRevolution.Properties.Resources.frecciaSX;
 			this.btn2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
 			this.btn2.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btn2.Location = new System.Drawing.Point(304, 334);
@@ -131,10 +132,11 @@
 			this.btn2.Size = new System.Drawing.Size(156, 156);
 			this.btn2.TabIndex = 7;
 			this.btn2.UseVisualStyleBackColor = true;
+			this.btn2.Click += new System.EventHandler(this.Btn2_Click);
 			// 
 			// btn4
 			// 
-			this.btn4.BackgroundImage = global::esDanceDanceRevolution.Properties.Resources.freccia_giu;
+			this.btn4.BackgroundImage = global::esDanceDanceRevolution.Properties.Resources.frecciaGiu;
 			this.btn4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
 			this.btn4.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btn4.Location = new System.Drawing.Point(466, 496);
@@ -142,10 +144,11 @@
 			this.btn4.Size = new System.Drawing.Size(156, 156);
 			this.btn4.TabIndex = 6;
 			this.btn4.UseVisualStyleBackColor = true;
+			this.btn4.Click += new System.EventHandler(this.Btn4_Click);
 			// 
 			// btn3
 			// 
-			this.btn3.BackgroundImage = global::esDanceDanceRevolution.Properties.Resources.freccia_dx;
+			this.btn3.BackgroundImage = global::esDanceDanceRevolution.Properties.Resources.frecciaDx;
 			this.btn3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
 			this.btn3.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btn3.Location = new System.Drawing.Point(628, 334);
@@ -153,10 +156,11 @@
 			this.btn3.Size = new System.Drawing.Size(156, 156);
 			this.btn3.TabIndex = 5;
 			this.btn3.UseVisualStyleBackColor = true;
+			this.btn3.Click += new System.EventHandler(this.Btn3_Click);
 			// 
 			// btnCentro
 			// 
-			this.btnCentro.BackgroundImage = global::esDanceDanceRevolution.Properties.Resources.centro;
+			this.btnCentro.BackgroundImage = global::esDanceDanceRevolution.Properties.Resources.Centropad;
 			this.btnCentro.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
 			this.btnCentro.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.btnCentro.Location = new System.Drawing.Point(466, 334);
@@ -169,7 +173,8 @@
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(1525, 972);
+			this.ClientSize = new System.Drawing.Size(1421, 705);
+			this.Controls.Add(this.pnlDati);
 			this.Controls.Add(this.lblPunteggio);
 			this.Controls.Add(this.btn1);
 			this.Controls.Add(this.btn2);
@@ -178,9 +183,8 @@
 			this.Controls.Add(this.btnCentro);
 			this.Controls.Add(this.lblGiocatore);
 			this.Controls.Add(this.lblTitolo);
-			this.Controls.Add(this.pnlDati);
 			this.Name = "Form1";
-			this.Text = "Form1";
+			this.Text = " ";
 			this.Load += new System.EventHandler(this.Form1_Load);
 			this.pnlDati.ResumeLayout(false);
 			this.pnlDati.PerformLayout();

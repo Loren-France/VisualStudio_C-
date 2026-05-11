@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A320F735-F68E-46DF-AC8E-48775E3D4902}</ProjectGuid>
+    <ProjectGuid>{D819655D-C2E5-465E-8F6E-D70BE6B882D2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>esDanceDanceRevolution</RootNamespace>
     <AssemblyName>esDanceDanceRevolution</AssemblyName>
@@ -81,25 +81,34 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\freccia su.png" />
+    <None Include="Resources\Centropad.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\freccia dx.png" />
+    <None Include="Resources\FracciaSuColor.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\freccia giu.png" />
+    <None Include="Resources\FrecciagiuColor.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\freccia sx.png" />
+    <None Include="Resources\frecciaGiu.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\centro.png" />
+    <None Include="Resources\frecciaSX.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\freccia dx led.png" />
+    <None Include="Resources\frecciaDx.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\freccia giu led.png" />
+    <None Include="Resources\frecciaSu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrecciaDxColor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrecciaSXColor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\backgroud_music.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -63,9 +63,9 @@ namespace esDanceDanceRevolution.Properties {
         /// <summary>
         ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap centro {
+        internal static System.Drawing.Bitmap Centropad {
             get {
-                object obj = ResourceManager.GetObject("centro", resourceCulture);
+                object obj = ResourceManager.GetObject("Centropad", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace esDanceDanceRevolution.Properties {
         /// <summary>
         ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap freccia_dx {
+        internal static System.Drawing.Bitmap FracciaSuColor {
             get {
-                object obj = ResourceManager.GetObject("freccia dx", resourceCulture);
+                object obj = ResourceManager.GetObject("FracciaSuColor", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace esDanceDanceRevolution.Properties {
         /// <summary>
         ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap freccia_dx_led {
+        internal static System.Drawing.Bitmap frecciaDx {
             get {
-                object obj = ResourceManager.GetObject("freccia dx led", resourceCulture);
+                object obj = ResourceManager.GetObject("frecciaDx", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace esDanceDanceRevolution.Properties {
         /// <summary>
         ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap freccia_giu {
+        internal static System.Drawing.Bitmap FrecciaDxColor {
             get {
-                object obj = ResourceManager.GetObject("freccia giu", resourceCulture);
+                object obj = ResourceManager.GetObject("FrecciaDxColor", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +103,9 @@ namespace esDanceDanceRevolution.Properties {
         /// <summary>
         ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap freccia_giu_led {
+        internal static System.Drawing.Bitmap frecciaGiu {
             get {
-                object obj = ResourceManager.GetObject("freccia giu led", resourceCulture);
+                object obj = ResourceManager.GetObject("frecciaGiu", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +113,9 @@ namespace esDanceDanceRevolution.Properties {
         /// <summary>
         ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap freccia_su {
+        internal static System.Drawing.Bitmap FrecciagiuColor {
             get {
-                object obj = ResourceManager.GetObject("freccia su", resourceCulture);
+                object obj = ResourceManager.GetObject("FrecciagiuColor", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -123,9 +123,29 @@ namespace esDanceDanceRevolution.Properties {
         /// <summary>
         ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap freccia_sx {
+        internal static System.Drawing.Bitmap frecciaSu {
             get {
-                object obj = ResourceManager.GetObject("freccia sx", resourceCulture);
+                object obj = ResourceManager.GetObject("frecciaSu", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap frecciaSX {
+            get {
+                object obj = ResourceManager.GetObject("frecciaSX", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap FrecciaSXColor {
+            get {
+                object obj = ResourceManager.GetObject("FrecciaSXColor", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
