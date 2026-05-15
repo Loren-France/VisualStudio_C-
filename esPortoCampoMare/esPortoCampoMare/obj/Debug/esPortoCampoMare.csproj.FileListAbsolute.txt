@@ -1,0 +1,10 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esPortoCampoMare\esPortoCampoMare\obj\Debug\esPortoCampoMare.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esPortoCampoMare\esPortoCampoMare\obj\Debug\esPortoCampoMare.Form1.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esPortoCampoMare\esPortoCampoMare\obj\Debug\esPortoCampoMare.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esPortoCampoMare\esPortoCampoMare\obj\Debug\esPortoCampoMare.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esPortoCampoMare\esPortoCampoMare\obj\Debug\esPortoCampoMare.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esPortoCampoMare\esPortoCampoMare\bin\Debug\esPortoCampoMare.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esPortoCampoMare\esPortoCampoMare\bin\Debug\esPortoCampoMare.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esPortoCampoMare\esPortoCampoMare\bin\Debug\esPortoCampoMare.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esPortoCampoMare\esPortoCampoMare\obj\Debug\esPortoCampoMare.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esPortoCampoMare\esPortoCampoMare\obj\Debug\esPortoCampoMare.pdb
