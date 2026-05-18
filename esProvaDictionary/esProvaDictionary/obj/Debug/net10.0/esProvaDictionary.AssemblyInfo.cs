@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("esProvaDictionary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db8babc41ccf1d2ad1f14ea0ddc525a5c59ea9f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47f66964c004d1f91c747ccf1f1b8d90797e2796")]
 [assembly: System.Reflection.AssemblyProductAttribute("esProvaDictionary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("esProvaDictionary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

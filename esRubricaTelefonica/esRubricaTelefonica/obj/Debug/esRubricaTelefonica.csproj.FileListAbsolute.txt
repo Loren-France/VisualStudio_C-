@@ -1,0 +1,10 @@
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esRubricaTelefonica\esRubricaTelefonica\bin\Debug\esRubricaTelefonica.exe.config
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esRubricaTelefonica\esRubricaTelefonica\bin\Debug\esRubricaTelefonica.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esRubricaTelefonica\esRubricaTelefonica\bin\Debug\esRubricaTelefonica.pdb
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esRubricaTelefonica\esRubricaTelefonica\obj\Debug\esRubricaTelefonica.csproj.AssemblyReference.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esRubricaTelefonica\esRubricaTelefonica\obj\Debug\esRubricaTelefonica.Form1.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esRubricaTelefonica\esRubricaTelefonica\obj\Debug\esRubricaTelefonica.Properties.Resources.resources
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esRubricaTelefonica\esRubricaTelefonica\obj\Debug\esRubricaTelefonica.csproj.GenerateResource.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esRubricaTelefonica\esRubricaTelefonica\obj\Debug\esRubricaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esRubricaTelefonica\esRubricaTelefonica\obj\Debug\esRubricaTelefonica.exe
+C:\Users\Loren\OneDrive\Documenti\Informatica\VisualStudio\esRubricaTelefonica\esRubricaTelefonica\obj\Debug\esRubricaTelefonica.pdb
